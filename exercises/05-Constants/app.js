@@ -1,5 +1,5 @@
-const VERSION = '0.1';
+var VERSION1 = '0.1';
 
-VERSION = '0.9';
+const VERSION = '0.9';
 
 console.log(VERSION);
